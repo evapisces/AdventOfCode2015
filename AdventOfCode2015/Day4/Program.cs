@@ -13,6 +13,8 @@ namespace Day4
         {
             var input = "ckczppom";
             
+            ProcessInputA(input);
+            ProcessInputB(input);
 
             Console.Read();
         }
